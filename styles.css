@@ -1,0 +1,17 @@
+.food-image {
+    height: 400px; 
+    width: auto;
+}
+
+.header {
+    font-family: "fantasy", brush script MT;
+   text-align: center;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ul {
+    font-family: 'Courier New', Courier, monospace;
+}
